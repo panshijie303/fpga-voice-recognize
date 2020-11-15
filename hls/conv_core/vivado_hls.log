@@ -1,0 +1,12 @@
+
+****** Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source C:/Xilinx/Vivado/2020.1/scripts/vivado_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'p' on host 'desktop-c17glm8' (Windows NT_amd64 version 6.2) on Tue Oct 27 12:25:08 +0800 2020
+INFO: [HLS 200-10] In directory 'C:/Users/p/Desktop/source2/source2/PYNQ/hls/conv_core'
+INFO: [HLS 200-10] Bringing up Vivado HLS GUI ... 
+INFO: [Common 17-206] Exiting vivado_hls at Tue Oct 27 12:33:52 2020...
